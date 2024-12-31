@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Grace! 👋
 
 <!--
 **gracypresilia/gracypresilia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I'm interested in **machine learning** and **data science**, with a focus on leveraging data-driven solutions for impactful decision-making.  
+- 🌱 I’m currently enhancing my skills in **Natural Language Processing (NLP)**.  
+- 🔎 I’m seeking opportunities to gain hands-on experience through internships where I can apply my knowledge and continue growing.  
+- 📫 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/gracy-presiliasani-purwoto/)!  
