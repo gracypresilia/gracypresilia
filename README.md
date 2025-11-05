@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I'm interested in **machine learning** and **data science**, with a focus on leveraging data-driven solutions for impactful decision-making.
-- 📜 My latest projects include [travel recommendations](https://github.com/gracypresilia/J-GO_Travel-Recommendation) and [e-commerce analysis](https://github.com/gracypresilia/Dicoding_EC-Analysis).
-- 🌱 I’m currently enhancing my skills in **Natural Language Processing (NLP)**.  
-- 🔎 I’m seeking opportunities to gain hands-on experience through internships where I can apply my knowledge and continue growing.  
+- 🔭 I’m passionate about **Machine Learning** and **Data Science**, with a focus on turning data into impactful, data-driven decisions.  
+- 📜 My latest projects include [Retail Sales & Revenue Forecasting](https://github.com/gracypresilia/SalesRevenue_Multivariate_Forecasting), [E-Commerce Analysis](https://github.com/gracypresilia/Dicoding_EC-Analysis), and [Travel Recommendation System](https://github.com/gracypresilia/J-GO_Travel-Recommendation).  
+- 🎓 I’m currently working on my undergraduate thesis about **optical sensor fusion**, where I focus on data-driven analysis and multi-sensor integration.
+- 💻 I also develop **self-projects** to explore topics in data science, while continuously strengthen my portfolio.    
+- 🔎 I’m open to opportunities that allow me to apply my skills in real-world projects.
 - 📫 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/gracy-presiliasani-purwoto/)!  
