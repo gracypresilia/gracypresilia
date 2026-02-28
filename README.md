@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m passionate about **Machine Learning** and **Data Science**, with a focus on turning data into impactful, data-driven decisions.  
-- 📜 My latest projects include [Retail Sales & Revenue Forecasting](https://github.com/gracypresilia/SalesRevenue_Multivariate_Forecasting), [E-Commerce Analysis](https://github.com/gracypresilia/Dicoding_EC-Analysis), and [Travel Recommendation System](https://github.com/gracypresilia/J-GO_Travel-Recommendation).  
+- 🔭 I’m passionate about **Machine Learning** and **Data Science**, with a strong interest in transforming data into actionable, data-driven insights.
+- 📊 My latest projects include [Customer Segmentation](https://github.com/gracypresilia/Clustering_Customer-Segmentation), [Sales & Revenue Forecasting](https://github.com/gracypresilia/SalesRevenue_Multivariate_Forecasting), and [E-Commerce Analysis](https://github.com/gracypresilia/Dicoding_EC-Analysis), focusing on real-world business and operational problems.  
 - 🎓 I’m currently working on my undergraduate thesis about **optical sensor fusion**, where I focus on data-driven analysis and multi-sensor integration.
 - 💻 I also develop **self-projects** to explore topics in data science, while continuously strengthen my portfolio.    
-- 🔎 I’m open to opportunities that allow me to apply my skills in real-world projects.
-- 📫 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/gracy-presiliasani-purwoto/)!  
+- 🔎 I’m open to opportunities where I can apply my technical skills to real-world products and data-driven systems.
+- 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/gracy-presiliasani-purwoto/)!  
